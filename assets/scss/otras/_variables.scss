@@ -3,7 +3,7 @@ $principal: #c06c28;
 $secundario: #a156c4;
 $text-color-w: white;
 $text-color-b:black;
-$hover-color: #4d0000;
+$hover-color: #6b0000;
 $menu-color: #A15F20;
 $resaltar-color: #8a5bb6;
 
@@ -14,9 +14,22 @@ $small-esp: 1.5rem;
 $xsmall-esp: 0.5rem;
 
 /*Fuentes*/
-$fuente-titulos:'Rozha One', serif;
-$fuente-cuerpo:'Work Sans', sans-serif;
-$fuente-menu:'Work Sans', sans-serif;
+$fuente-titulos:'Hind', sans-serif;
+$fuente-cuerpo:'Hind', sans-serif;
+$fuente-menu: 'Crimson Text', serif;
+$fuente-cuerpo2: 'Alegreya Sans SC', sans-serif;
+$fuente-cuerpo3: 'Karma', serif;
+$fuente-cuerpo4: 'Lato', sans-serif;
+$fuente-cuerpo5: 'Work Sans', sans-serif;
+/*
+font-family: 'Alegreya Sans SC', sans-serif;
+font-family: 'Crimson Text', serif;
+font-family: 'Hind', sans-serif;
+font-family: 'Karma', serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Work Sans', sans-serif;
+*/
+
 
 /*Tamaño de fuente rem o em*/
 $h1-font-size: 12em;

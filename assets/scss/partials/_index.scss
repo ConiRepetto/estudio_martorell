@@ -1,60 +1,29 @@
-main{
+.img-fondo{
     width: 100%;
-    
+    height: auto;
+    z-index: 0;
+}
+.main__index{
+    @include flex(column, center, flex-start, 1em);
+}
 
-    .div-p-secundario{
-        display: flex;
-        justify-content: right;
-    }
-    .p-principal{
-        @include texto ($fuente-cuerpo, $large, 200px, center, $text-color-b);padding: 0em 1em 1.5em 0em;
-    }
-    
-    @media screen and (max-width: 600px) {
-        .p-principal{
-            font-size: $medium;
-        }
-      }
-    
-      .p-secundario{
-        @include texto ($fuente-cuerpo, $medium, 0px, right, $resaltar-color);
-        padding: 0.5em 1em 5em 0em;
-    }
-    @media screen and (max-width: 600px) {
-        .p-secundario{
-            font-size: $small;
-            text-align: center;
-        }
-      }
+.main__section{
+    @include flex(column, left, center, 1em);
+    position: absolute;
+    background: rgba( 255, 255, 255, 0.5 );
+    backdrop-filter: blur( 4.5px );
+    -webkit-backdrop-filter: blur( 4.5px );
+    border-radius: 10px;
+    z-index: 3;
+}
 
-    
-    
-    @keyframes span_animation {
-        0% {color:#a156c4;}
-        25% {color:#ff7400;}
-        50% {color:#008000;}
-        75% {color:#f63737;}
-        100% {color:#a156c4;}
-    }
-    
-    .section__span{
-        color: #a156c4;
-        animation-name: span_animation;
-        animation-iteration-count: infinite ;
-        animation-timing-function: linear;
-        animation-duration: 4s;
-        animation-delay: 1s;
-    }
+section div{
+@include texto ($fuente-cuerpo4, $small, 600, left, $text-color-b);
+padding: 4rem 2rem 4rem 2rem;
     
 }
 
+p{
+    padding: 1rem;
+}
 
-
-
-
-
-/*@media only screen and (min-width: 601px) and (orientation: landscape) {
-    .main__section{
-        @include texto ($fuente-cuerpo, $large, 200, right, $text-color-b);
-    }
-  }*/

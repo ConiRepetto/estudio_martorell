@@ -1,24 +1,29 @@
 header{
     @include flex (row, space-between, center, $small);
     width: 100vw;
-    background: rgba( 255, 255, 255, 0 )!important;
-    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 )!important;
-    backdrop-filter: blur( 5px )!important;
-    -webkit-backdrop-filter: blur( 5px )!important;
-    border-radius: 10px;
-    position:sticky;
     top:0;
     z-index:3;
     padding: 0.5em;
 }
 
+.logo_header{
+    display: flex;
+    flex-direction: row;
+    padding: 0.5em 0 0 2em;
+}
 
 .navbar-brand{
-    border-radius: 45%;
     display: flex;
-    width: 4rem;
-    height: 4rem;
-    padding-left: 0.5rem;
+    width: 10rem;
+    height: auto;
+    padding-top: 1rem;
+}
+
+.navbar-titulo{
+    display: flex;
+    width: 25rem;
+    height: auto;
+    padding-top: 1rem;
 }
 
 .container-fluid{
@@ -31,27 +36,7 @@ header{
 }
 
 .nav-link{
-    @include texto ($fuente-menu, $small, 0, none, $menu-color);
-    text-decoration: none;
-    text-shadow: 1px 1px 2px #4d4a4a;
-    &:hover{
-    color: $hover-color;
-    }
-}
-
-.dropdown-menu{
-    background: rgba( 255, 255, 255, 0.55 );
-    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
-    backdrop-filter: blur( 20px );
-    -webkit-backdrop-filter: blur( 20px );
-    border-radius: 10px;
-}
-
-.dropdown-item{
-    @include texto ($fuente-menu, $small, 0, none, $menu-color);
-    text-decoration: none;
-    text-shadow: 1px 1px 2px #4d4a4a;
-    padding: 0.2em;
+    @include texto ($fuente-cuerpo2, $small, 900, none, $text-color-b);
     text-decoration: none;
     &:hover{
     color: $hover-color;
@@ -60,7 +45,29 @@ header{
 
 
 
-#nav__insta{
-    padding-right: 2rem;
-    color: $secundario;
+@media screen and (max-width: 600px) {
+    .container-fluid{
+        align-self: center;
+    }
+    .logo_header{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 0.5em 0 0 2em;
+    }
+    
+    .navbar-brand{
+        display: flex;
+        width: 8rem;
+        height: auto;
+        padding-top: 1rem;
+    }
+    
+    .navbar-titulo{
+        display: flex;
+        width: 20rem;
+        height: auto;
+        padding-top: 1rem;
+    }
 }
