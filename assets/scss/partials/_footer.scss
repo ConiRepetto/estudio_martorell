@@ -1,31 +1,36 @@
 footer{
-    padding: $small-esp;
+    padding: 0;
     background: rgba( 89, 0, 0, 0.6 );
     backdrop-filter: blur( 9px );
     -webkit-backdrop-filter: blur( 9px );
     border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 
-    footer a{
-        @include texto ($fuente-cuerpo, $xsmall, 100, center, $text-color-b);
-        padding: 1em 1em 0.2em 1em;
-        text-decoration: none;
-        color: $text-color-b;
-        &:hover{
-            color: rgb(68, 14, 66);
-        }
+footer a{
+    @include texto ($fuente-cuerpo, $small, 100, center, $text-color-b);
+    padding: 0.5em 1em 0.2em 1em;
+    text-decoration: none;
+    color: $text-color-b;
+    &:hover{
+        color: rgb(68, 14, 66);
     }
+}
 
-    footer p{ 
-        display: flex;
-        justify-content: center;
-        @include texto ($fuente-cuerpo, $xsmall, 100, center, $text-color-b);
-        padding: 1em 1em 0.2em 1em;
-    }
+.div_direccion{ 
+    @include flex (column, center, center, 0.5rem);
+    align-content: flex-end;
+}
 
-    .insta_white{
-    color: $menu-color;
-    }
+.div_info{
+    @include flex (column, left, flex-start,0.5em 0 0 5em);
+    @include texto ($fuente-cuerpo, $small, 100, center, $text-color-b);
+}
+
+.div_subinfo{
+    @include flex (row, space-around, baseline, 0);
+    
+}
+
 
 @media screen and (max-width: 450px) {
     footer{
