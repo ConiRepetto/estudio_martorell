@@ -25,11 +25,13 @@ a{
     text-decoration: none;
     font-family: $fuente-menu;
     color: $text-color-b;
-}
-
-a:hover{
-    color: $hover-color;
-    cursor: pointer;
+    &:hover{
+        color: $hover-color;
+        cursor: pointer;
+    }
+    &:active{
+        color: $secundario
+    }
 }
 
 img{

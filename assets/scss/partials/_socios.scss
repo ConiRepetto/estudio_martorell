@@ -1,0 +1,77 @@
+.socios_img{
+    width: 25em;
+    height: auto;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+}
+
+.socios_main_container{
+    @include flex(row, space-evenly, flex-start, $small-esp);
+    padding-top: 10em;
+}
+
+.socios_individual{
+    @include flex(column, flex-start, center, $small-esp);
+    
+}
+
+.socios_nombre{
+    @include texto($fuente-cuerpo2, $medium, 900px, center, $text-color-b);
+    flex-wrap: wrap;
+}
+
+.socios_epigrafe{
+    @include texto($fuente-cuerpo2, $small, 500px, center, $text-color-b);
+    flex-wrap: wrap;
+}
+
+
+/*Pagina de cada socio indivicual*/
+
+
+.socios_individual_container{
+    @include flex(row, space-evenly, flex-start, $small-esp);
+    padding-top: 5em;
+    padding-right: 10em;
+    padding-left: 5em;
+    padding-bottom: 5em;
+}
+
+.socios_lista{
+    @include flex(column, space-between, flex-start, $small-esp);
+    & > a{
+        font-size: 0.8em;
+        font-weight: bolder;
+        &:hover{
+            color: $hover-color;
+        };
+        &:active{
+            color: $secundario
+        };
+    };
+    padding-right: 5em;
+}
+.socios_nombre:hover{
+    color: $hover-color;
+}
+.socios_nombre:active{
+    color: $secundario;
+}
+.socio_descripcion{
+    @include flex(row, flex-start, flex-start, 0);
+    padding-left: 10em;
+}
+.socio_foto_nombre{
+    @include flex(column, space-evenly, flex-start, 0);
+}
+.socios_epi{
+    @include texto($fuente-cuerpo2, $medium, bold, center, $text-color-b);
+}
+.socio_bio{
+    @include texto($fuente-cuerpo2, $small, 500px, justify, $text-color-b);
+    flex-wrap: wrap;
+    
+}
+
+
+
