@@ -36,7 +36,7 @@ header{
     padding-right: 1.5em;
 }
 
-.nav-link{
+.nav-link {
     @include texto ($fuente-cuerpo2, $small, 900, none, $text-color-b);
     text-decoration: none;
     &:hover{
@@ -44,6 +44,20 @@ header{
     }
 }
 
+.dropdown-menu{
+    background-color: none;
+}
+
+.dropdown-item{
+    @include texto ($fuente-cuerpo2, $small, 900, none, $text-color-b);
+    text-decoration: none;
+    &:hover{
+    color: $hover-color;
+    };
+    &:focus{
+        background-color: white;
+    }
+}
 
 
 @media screen and (max-width: 600px) {

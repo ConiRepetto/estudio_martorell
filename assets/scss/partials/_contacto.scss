@@ -1,2 +1,9 @@
+#contacto{
+    @include flex (row, center, center,2em 0 10em 2em);
+}
 
+.div_informacion{
+    @include flex (column, left, flex-start,0.5em 0 0 0em);
+    @include texto ($fuente-cuerpo, $mmedium, 0, left, $text-color-b);
+}
 
