@@ -1,0 +1,32 @@
+.row{
+    padding-left: 20em;
+    padding-right: 20em;
+}
+
+.main_servicios{
+    @include flex(row, center, center, 1em);
+    flex-wrap: wrap;
+    padding-bottom: 10em;
+}
+
+
+.main_servicios{
+    padding-left: 20em;
+    padding-right: 20em;
+}
+
+.containerX3{
+    display: flex;
+    padding: 1em;
+    flex-direction: row;
+}
+
+
+.card-body{
+    background: rgba( 255, 255, 255, 0.3 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 3.5px );
+    -webkit-backdrop-filter: blur( 3.5px );
+    
+}
+

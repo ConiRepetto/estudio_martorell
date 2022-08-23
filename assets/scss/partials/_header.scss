@@ -4,7 +4,8 @@ header{
     top:0;
     z-index:3;
     padding: 0.5em 10em 0.5em 0.5em;
-
+    background-color: #001035;
+    
 }
 
 .logo_header{
@@ -37,7 +38,7 @@ header{
 }
 
 .nav-link {
-    @include texto ($fuente-cuerpo2, $small, 900, none, $text-color-b);
+    @include texto ($fuente-cuerpo2, $small, 900, none, $text-color-w);
     text-decoration: none;
     &:hover{
     color: $hover-color;
