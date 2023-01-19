@@ -1,8 +1,8 @@
 {
   "author": "constanza-repetto",
-  "description": "proyecto-bebas",
+  "description": "estudio_martorell",
   "license": "MIT",
-  "name": "proyecto-bebas-coni",
+  "name": "estudio_martorell_cr",
   "scripts": {
     "watch:css": "nodemon -e scss -x \"npm run build:css\"",
     "build:css": "node-sass --output-style compressed assets/scss/estilos.scss assets/css/stylepack.css"

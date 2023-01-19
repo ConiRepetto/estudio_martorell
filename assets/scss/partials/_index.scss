@@ -1,7 +1,7 @@
 .img-fondo{
     width: 100%;
     height: auto;
-    z-index: 0;
+    z-index: 1;
 }
 .main__index{
     @include flex(column, center, flex-start, 1em);
@@ -14,7 +14,7 @@
     backdrop-filter: blur( 4.5px );
     -webkit-backdrop-filter: blur( 4.5px );
     border-radius: 10px;
-    z-index: 3;
+    z-index: 2;
 }
 
 section div{
@@ -27,3 +27,18 @@ section div p{
     padding: 1rem;
 }
 
+@media screen and (max-width: 600px) {
+    section div p{
+        @include texto ($fuente-cuerpo4, $xsmall, 600, left, $text-color-b);
+        padding: 1rem;
+    }
+    .main__section{
+        @include flex(column, left, center, 1em);
+        position: static;
+        background: rgba( 255, 255, 255, 0.5 );
+        backdrop-filter: blur( 4.5px );
+        -webkit-backdrop-filter: blur( 4.5px );
+        border-radius: 10px;
+        z-index: 3;
+    }
+  }
