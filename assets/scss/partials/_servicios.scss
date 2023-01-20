@@ -36,3 +36,12 @@ div h3{
     backdrop-filter: blur(3.5px);
     -webkit-backdrop-filter: blur(3.5px);
 }
+
+@media screen and (max-width: 1000px) {
+    .row {
+    padding-left: 0.1em !important;
+    padding-right: 0.1em !important;
+    padding-bottom: 0em !important;
+}
+}
+
