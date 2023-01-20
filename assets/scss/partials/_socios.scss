@@ -52,6 +52,7 @@
         };
     };
     padding-right: 5em;
+    flex-wrap:nowrap;
 }
 .socios_nombre:hover{
     color: $hover-color;
@@ -81,15 +82,29 @@
     padding-bottom: 7em;
 }
 
+hr{
+    border: 2px;
+    color: black;
+}
 @media screen and (max-width: 1412px) {
     .socio_descripcion{
-        
+        @include flex(row, center, center, 0);
+        padding-left: 0.3em;
         flex-wrap: wrap
     }
 
     .socios_individual_container{
         
         flex-wrap: wrap
+    }
+    .socios_individual_container{
+        @include flex(column, center, center, $small-esp);
+        padding: 2em 0.5em 2em 0.5em;
+
+    }
+    .socio_foto_nombre{
+        @include flex(column, center, center, 0);
+        padding-right: 0em; 
     }
 }
 
