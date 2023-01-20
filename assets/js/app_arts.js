@@ -16,6 +16,7 @@ const mostrarCard = (contenido) => {
     } = contenido
     return `<div class="articulosLista">
                 <a id="${id}" href="${link}" target="_blank">"${title}", ${year}</a>
+                <hr/>
             </div>
             `
 }

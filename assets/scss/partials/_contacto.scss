@@ -7,3 +7,8 @@
     @include texto ($fuente-cuerpo, $mmedium, 0, left, $text-color-b);
 }
 
+@media screen and (max-width: 900px) {
+    #contacto{
+        @include flex (column, center, center,2em 0 10em 2em);
+    }
+}
