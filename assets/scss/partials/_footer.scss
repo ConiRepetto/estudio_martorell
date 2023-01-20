@@ -1,43 +1,50 @@
-footer{
-    padding: 0;
+footer {
+    position: inherit;
+    left: 0;
+    bottom: 0;
+    padding-top: 3em;
+    width: 100%;
     background: #001035;
 }
 
-footer a{
+footer a {
     @include texto ($fuente-cuerpo, $small, 100, center, $resaltar-color);
-    padding: 0.5em 1em 0.2em 1em;
+    padding: 0em 1em 0.5em 1em;
     text-decoration: none;
-    &:hover{
+
+    &:hover {
         color: $hover-color;
     }
 }
 
-.div_direccion{ 
-    @include flex (column, center, center, 0.5rem);
+.div_direccion {
+    @include flex (column, center, center, 0.1rem);
     align-content: flex-end;
 }
 
-.div_info{
-    @include flex (column, left, flex-start,0.5em 0 0 5em);
+.div_info {
+    @include flex (column, left, flex-start, 0.1em 0 0.2em 5em);
     @include texto ($fuente-cuerpo, $small, 100, center, $resaltar-color);
 }
 
-.div_subinfo{
+.div_subinfo {
     @include flex (row, space-around, baseline, 0);
-    
+
 }
 
 
 @media screen and (max-width: 450px) {
-    footer{
+    footer {
         padding: 0.1;
         align-content: center;
         flex-direction: column;
     }
-    footer a{
+
+    footer a {
         padding: 0.2em;
-        }
-    footer p{ 
+    }
+
+    footer p {
         padding: 0.2em
     }
 }

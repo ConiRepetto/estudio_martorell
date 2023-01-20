@@ -1,44 +1,46 @@
-.img-fondo{
+.img-fondo {
     width: 100%;
     height: auto;
     z-index: 1;
 }
-.main__index{
+
+.main__index {
     @include flex(column, center, flex-start, 1em);
 }
 
-.main__section{
+.main__section {
     @include flex(column, left, center, 1em);
     position: absolute;
-    background: rgba( 255, 255, 255, 0.5 );
-    backdrop-filter: blur( 4.5px );
-    -webkit-backdrop-filter: blur( 4.5px );
+    background: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(4.5px);
+    -webkit-backdrop-filter: blur(4.5px);
     border-radius: 10px;
     z-index: 2;
 }
 
-section div{
-@include texto ($fuente-cuerpo4, $small, 600, left, $text-color-b);
-padding: 4rem 2rem 4rem 2rem;
-    
+section div {
+    @include texto ($fuente-cuerpo4, $small, 600, left, $text-color-b);
+    padding: 4rem 2rem 4rem 2rem;
+
 }
 
-section div p{
+section div p {
     padding: 1rem;
 }
 
-@media screen and (max-width: 600px) {
-    section div p{
+@media screen and (max-width: 1412px) {
+    section div p {
         @include texto ($fuente-cuerpo4, $xsmall, 600, left, $text-color-b);
         padding: 1rem;
     }
-    .main__section{
+
+    .main__section {
         @include flex(column, left, center, 1em);
         position: static;
-        background: rgba( 255, 255, 255, 0.5 );
-        backdrop-filter: blur( 4.5px );
-        -webkit-backdrop-filter: blur( 4.5px );
+        background: rgba(255, 255, 255, 0.5);
+        backdrop-filter: blur(4.5px);
+        -webkit-backdrop-filter: blur(4.5px);
         border-radius: 10px;
         z-index: 3;
     }
-  }
+}

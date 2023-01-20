@@ -8,11 +8,12 @@
 .socios_main_container{
     @include flex(row, space-evenly, flex-start, $small-esp);
     padding-top: 10em;
+    flex-wrap: wrap
 }
 
 .socios_individual{
     @include flex(column, flex-start, center, $small-esp);
-    
+    flex-wrap: wrap
 }
 
 .socios_nombre{
@@ -35,6 +36,7 @@
     padding-right: 10em;
     padding-left: 5em;
     padding-bottom: 5em;
+    
 }
 
 .socios_lista{
@@ -60,9 +62,11 @@
 .socio_descripcion{
     @include flex(row, flex-start, flex-start, 0);
     padding-left: 10em;
+    
 }
 .socio_foto_nombre{
     @include flex(column, space-evenly, flex-start, 0);
+    padding-right: 2em; 
 }
 .socios_epi{
     @include texto($fuente-cuerpo2, $medium, bold, center, $text-color-b);
@@ -73,5 +77,19 @@
     
 }
 
+.main_eem_mek{
+    padding-bottom: 7em;
+}
 
+@media screen and (max-width: 1412px) {
+    .socio_descripcion{
+        
+        flex-wrap: wrap
+    }
+
+    .socios_individual_container{
+        
+        flex-wrap: wrap
+    }
+}
 
