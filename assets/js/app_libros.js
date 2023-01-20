@@ -12,9 +12,18 @@ const mostrarCard = (contenido) => {
         year,
         thumbnail
     } = contenido
-    return  `<div class="cardContainer col-lg-2 col-md-4 col-sm-6 ">
+    return `<div class="cardContainer col-lg-2 col-md-4 col-sm-6 ">
                 <div class="card card-libros">
                     <img id="${id}" src="${thumbnail}" class="card-img-top img-libros" alt="...">
+                    <!-- The Modal -->
+                    <div id="myModal" class="modal">
+
+                        <!-- The Close Button -->
+                        <span class="close">&times;</span>
+
+                        <!-- Modal Content (The Image) -->
+                        <img class="modal-content" id="${title}">
+                    </div>
                     <div class="card-body card-body-libros">
                         <h3 class="card-title card-title-libros" title="${title}">${title}</h3>
                         <p class="card-text card-text-libros ">${autor}</p>
@@ -46,7 +55,7 @@ const cargarContenido = async () => {
         librosLista.forEach(element => {
             contenidoHTML += mostrarCard(element)
         });
-    } catch  {
+    } catch {
         const response = await fetch(URL)
         const data = await response.json() //convierte a una estructura de json
         console.table(data)
@@ -60,4 +69,26 @@ const cargarContenido = async () => {
     }
 }
 
+
 cargarContenido()
+
+// //Get the modal
+// var modal = document.getElementById("myModal");
+
+// // Get the image and insert it inside the modal - use its "alt" text as a caption
+// var img = document.querySelector(".img-libros");
+// var modalImg = document.getElementById("img01");
+// var captionText = document.getElementById("caption");
+// img.onclick = function () {
+//     modal.style.display = "block";
+//     modalImg.src = this.src;
+//     captionText.innerHTML = this.alt;
+// }
+
+// // Get the <span> element that closes the modal
+// var span = document.getElementsByClassName("close")[0];
+
+// // When the user clicks on <span> (x), close the modal
+// span.onclick = function () {
+//     modal.style.display = "none";
+// }

@@ -29,12 +29,13 @@
     width: 2.5em;
     height: auto;
     border-radius: 0 !important;
+    padding-bottom: 0.2em;
 }
 
 .card-title-libros{
-    font-size: 0.15em;
-    
-    
+    font-weight: bolder !important;
+    font-size: 0.12em;
+    padding:  0px !important
 }
 
 .card-text-libros{
@@ -50,5 +51,5 @@
 }
 .card-body-libros {
     background: none !important;
-    
+    padding:  0px !important
 }
