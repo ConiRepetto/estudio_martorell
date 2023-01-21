@@ -3,6 +3,7 @@ const URL = "../data_base/libros.json"
 let librosLista = []
 let contenidoHTML = ""
 
+
 const mostrarCard = (contenido) => {
     const {
         id,
@@ -71,6 +72,23 @@ const cargarContenido = async () => {
 
 
 cargarContenido()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // //Get the modal
 // var modal = document.getElementById("myModal");
