@@ -37,6 +37,7 @@ footer a {
     footer {
         padding: 0.1;
         align-content: center;
+
         flex-direction: column;
     }
 
@@ -46,5 +47,9 @@ footer a {
 
     footer p {
         padding: 0.2em
+    }
+    .div_info {
+        @include flex (column, center, center, 0.1em 0 0.2em 0.5em);
+        
     }
 }

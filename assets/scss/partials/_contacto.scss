@@ -17,11 +17,13 @@
 
 @media screen and (max-width: 900px) {
     #contacto {
-        @include flex (column, center, center, 2em 0 10em 2em);
+        @include flex (column, center, center, 2em 0 5em 0.1em);
     }
-
+    .div_informacion {
+        @include flex (column, left, flex-start, 0.5em 0.1em 2em 0.1em);
+    }
     .mapa {
-        width: 100vw;
+        width: 95vw;
         height: auto;
         border: 0;
     }

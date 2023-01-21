@@ -25,10 +25,10 @@
         "id": 42,
         "title": "COVID-19 (Coronavirus y Empresa)",
         "autor": "Ernesto E. Martorell",
-        "coautores": "Gaston Geerico Martorell",
+        "coautores": "Gaston Federico Martorell",
         "year": 2020,
         "editorial": "RUBINZAL CULZONI",
-        "category": "",
+        "category": "Comercial",
         "thumbnail": "../img/libros/m063.jpg",
         "description": ""
     },
@@ -39,7 +39,7 @@
         "coautores": "Alejandro Tazza",
         "year": 2018,
         "editorial": "RUBINZAL CULZONI",
-        "category": "",
+        "category": "Comercial",
         "thumbnail": "../img/libros/m062.jpg",
         "description": ""
     },
@@ -159,7 +159,7 @@
         "coautores": "",
         "year": 2012,
         "editorial": "",
-        "category": "Comercial",
+        "category": "Concursal",
         "thumbnail": "../img/libros/m047.jpg",
         "description": ""
     }, 
@@ -237,7 +237,7 @@
         "coautores": "",
         "year": 2004,
         "editorial": "LexisNexis",
-        "category": "Tratados",
+        "category": "Concursal",
         "thumbnail": "../img/libros/m020.jpg",
         "description": ""
     },
@@ -281,7 +281,7 @@
         "coautores": "",
         "year": 1998,
         "editorial": "Depalma",
-        "category": "Tratados",
+        "category": "Concursal",
         "thumbnail": "../img/libros/m023.jpg" ,
         
         "description": ""
@@ -326,7 +326,7 @@
         "coautores": "",
         "year": 1996,
         "editorial": "AD HOC",
-        "category": "Comercial",
+        "category": "Concursal",
         "thumbnail": "../img/libros/m012.jpg",
         "description": ""
     },
@@ -443,7 +443,7 @@
     },
     {
         "id": 4,
-        "title": "Sociesdes Anonimas",
+        "title": "Sociedades Anonimas",
         "autor": "Ernesto E. Martorell",
         "coautores": "",
         "year": 1988,

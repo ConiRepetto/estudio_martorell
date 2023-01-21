@@ -15,19 +15,19 @@ const mostrarCard = (contenido) => {
     return `<div class="cardContainer col-lg-2 col-md-4 col-sm-6 ">
                 <div class="card card-libros">
                     <img id="${id}" src="${thumbnail}" class="card-img-top img-libros" alt="...">
-                    <!-- The Modal -->
-                    <div id="myModal" class="modal">
+                        <!-- The Modal -->
+                        <div id="myModal" class="modal">
 
-                        <!-- The Close Button -->
-                        <span class="close">&times;</span>
+                            <!-- The Close Button -->
+                            <span class="close">&times;</span>
 
-                        <!-- Modal Content (The Image) -->
-                        <img class="modal-content" id="${title}">
-                    </div>
+                            <!-- Modal Content (The Image) -->
+                            <img class="modal-content" id="${title}">
+                        </div>
                     <div class="card-body card-body-libros">
                         <h3 class="card-title card-title-libros" title="${title}">${title}</h3>
                         <p class="card-text card-text-libros ">${autor}</p>
-                        <p class="card-text card-text-libros">Coautores:${coautores}</p>
+                        <p class="card-text card-text-libros">${coautores}</p>
                         <p class="card-text card-text-libros">${year}</p>
                         
                     </div>
