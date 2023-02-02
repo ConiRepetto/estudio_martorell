@@ -49,6 +49,10 @@ header{
     background-color: none;
 }
 
+.navbar-toggler-icon{
+    color: white;
+}
+
 .dropdown-item{
     @include texto ($fuente-cuerpo2, $small, 900, none, $text-color-b);
     text-decoration: none;

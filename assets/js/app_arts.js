@@ -14,9 +14,12 @@ const mostrarCard = (contenido) => {
         category,
         link,
     } = contenido
-    return `<div class="articulosLista">
-                <a id="${id}" href="${link}" target="_blank">"${title}", ${year}</a>
-                <hr/>
+    return `<div class="artsContainer col-lg-4">
+                <div class="artsCard">
+                    <p class="titulos_arts" id="${id}" >"${title}"</p>
+                    <p class="titulos_arts_fecha">${year}</p>
+                    <a  class="ver_button" target="_blank" href="${link}"> VER MAS </a> 
+                </div>
             </div>
             `
 }

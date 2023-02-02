@@ -1,0 +1,74 @@
+
+.containerArts{
+    display: flex;
+    flex-direction: row;
+    padding: 0rem 12rem 12rem 12rem;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-items: stretch;
+    }
+
+    .artsContainer{
+        display: flex;
+    flex-direction: row;
+    padding: 3rem;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-items: stretch;
+            }
+
+.artsCard{
+    background: rgba(255, 255, 255, 0.3);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(3.5px);
+    -webkit-backdrop-filter: blur(3.5px);
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-items: stretch;
+    font-size: 0.6em !important;
+}
+
+.titulos_arts{
+    font-family: $fuente-titulos;
+    font-weight: bolder !important;
+    font-size: 0.8em ;
+    padding:  0px !important
+}
+.titulos_arts_fecha{
+    color: rgba(0, 0, 0, 0.868);
+    font-size: 0.8em ;
+    padding:  0px !important
+}
+.ver_button{
+    font-family: $fuente-titulos;
+    font-weight: bolder !important;
+    font-size: 0.8em;
+    padding:  0px !important
+}
+
+.card-libros{
+    padding: 1rem;
+    background-color: rgba(245, 245, 220, 0);
+    border: none;
+    flex-wrap: wrap;
+}
+.card-body-libros {
+    background: none !important;
+    padding:  0px !important
+}
+
+
+
+@media screen and (max-width: 900px) {
+    .containerArts{
+        padding: 0;
+    }
+    
+
+}
