@@ -29,6 +29,24 @@ section div p {
     padding: 1rem;
 }
 
+.container_fotos_index{
+    display: flex;
+    flex-direction: column;
+}
+
+.subcontainer_fotos_index{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.fotos_index{
+    width: 50rem;
+    height: auto;
+    padding: 1rem;
+}
+
 @media screen and (max-width: 1412px) {
     section div p {
         @include texto ($fuente-cuerpo4, $xsmall, 600, left, $text-color-b);
@@ -44,4 +62,12 @@ section div p {
         border-radius: 10px;
         z-index: 3;
     }
+
+    .subcontainer_fotos_index{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+    }
+
 }

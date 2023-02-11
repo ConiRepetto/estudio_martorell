@@ -71,11 +71,12 @@
 }
 .socios_epi{
     @include texto($fuente-cuerpo2, $medium, bold, center, $text-color-b);
+    
 }
 .socio_bio{
     @include texto($fuente-cuerpo2, $small, 500px, justify, $text-color-b);
     flex-wrap: wrap;
-    
+    text-align: justify;
 }
 
 .main_eem_mek{

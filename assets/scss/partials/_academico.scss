@@ -1,0 +1,65 @@
+
+
+.containerAcademico {
+    display: flex;
+    flex-direction: row;
+    padding: 0rem 12rem 12rem 12rem;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-items: stretch;    
+}
+
+.academicoCard {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-items: stretch;    
+    background: rgba(255, 255, 255, 0.3);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(3.5px);
+    -webkit-backdrop-filter: blur(3.5px);
+    
+}
+
+.container_titulos_acad{
+    padding: 1rem !important;
+}
+
+.titulos_acad {
+    font-family: $fuente-titulos;
+    font-weight: bolder !important;
+    font-size: 2.5rem;
+    text-align: center;
+    padding: 0px !important
+}
+
+.titulos_acad_fecha {
+    color: rgba(0, 0, 0, 0.868);
+    font-size:2rem;
+    padding: 0px !important
+}
+
+.img_acad_container{
+    display: flex;
+    padding: 0rem;
+    justify-content: center;
+    
+}
+
+.img_acad{
+    padding: 0px;
+    width: 20rem;
+    height: auto;
+}
+
+@media screen and (max-width: 900px) {
+    .containerAcademico {
+        padding: 0;
+    }
+
+
+}
