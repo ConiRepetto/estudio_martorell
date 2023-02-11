@@ -1,5 +1,4 @@
-[
-    {
+[{
         "id": 55,
         "title": "Nuevos timos con “Homebanking”: Se endurece la reacción de la justicia frente a las entidades financieras",
         "autor": "Ernesto E. Martorell",
@@ -7,6 +6,7 @@
         "year": "30/12/2022",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/nuevos-timos-con-homebanking-se-endurece-la-reaccion-de-la-justicia-frente-a-las-entidades-financieras/31885"
     },
     {
@@ -16,6 +16,7 @@
         "year": "3/11/2022",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/el-homebanking-como-cosa-riesgosa-entidades-financieras-mucho-cuidado-a-proposito-de-un-fallo-muy-reciente/31555"
     },
     {
@@ -25,6 +26,7 @@
         "year": "13/10/2022",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/la-anunciada-catarata-de-concursos-preventivos-se-viene-o-no-se-viene/31400"
     },
     {
@@ -34,6 +36,7 @@
         "year": "16/09/2022",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/conjunto-economico-multimedios-y-responsabilidad-laboral-por-fraude-ojo/31268"
     },
     {
@@ -43,6 +46,7 @@
         "year": "2/09/2022",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/fallo-laboral-revolucionario-que-podria-abrir-rumbos/31167"
     },
     {
@@ -52,18 +56,21 @@
         "year": "19/08/2022",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/agentes-sociedades-de-bolsa-estafa-a-inversores-y-ahorristas-y-posibilidades-de-cobro/31063"
     },
-	
-{"id": 49,
+
+    {
+        "id": 49,
         "title": " Inversiones y promesas de ganancias fabulosas, multiplicación milagrosa de dólares y otros timos: ¿qué puede hacer la justicia?",
         "autor": " Ernesto E. Martorell ",
         "coautores": "",
         "year": "29/07/2022",
         "editorial": " LA LEY ",
         "category": "",
-	"cita": "Cita Online: TR LALEY AR/DOC/2061/2022",
-        "link":},
+        "cita": "  TR LALEY AR/DOC/2061/2022",
+        "link": ""
+    },
 
     {
         "id": 48,
@@ -72,6 +79,7 @@
         "year": "28/07/2022",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/se-viene-el-dolar-agro-ahijuna-posicion-de-la-justicia/30930"
     },
     {
@@ -81,6 +89,7 @@
         "year": "8/07/2022",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/es-licito-para-los-profesionales-abogados-contadores-etc-convenir-honorarios-en-dolares-y-ademas-son-ejecutables-al-ex-cliente/30780"
     },
     {
@@ -90,6 +99,7 @@
         "year": "24/06/2022",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/contratos-empresarios-debera-extremarse-la-cautela-a-partir-de-la-extension-de-responsabilidad-en-el-fallo-remax/30700"
     },
     {
@@ -99,17 +109,20 @@
         "year": "27/05/2022",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/es-posible-verificar-hoy-certificados-off-shore-pagares-cheques-o-mutuos-en-el-concurso-o-quiebra-de-un-deudor-picaro/30529"
     },
-	{"id": 44,
-        "title": "A propósito de la extensión de la quiebra"
+    {
+        "id": 44,
+        "title": "A propósito de la extensión de la quiebra",
         "autor": " Ernesto E. Martorell ",
         "coautores": "",
         "year": "29/04/2022",
         "editorial": " LA LEY ",
         "category": "",
-	"cita": "Cita Online: TR LALEY AR/DOC/1375/2022",
-        "link":},
+        "cita": "  TR LALEY AR/DOC/1375/2022",
+        "link": ""
+    },
 
     {
         "id": 43,
@@ -118,6 +131,7 @@
         "year": "13/04/2022",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/el-proyecto-oficial-de-ley-de-blanqueo-otra-vez-sopa-pero-esta-vez-mas-amarga/30285"
     },
     {
@@ -127,6 +141,7 @@
         "year": "1/04/2022",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/promesa-y-cuentos-de-ganancias-fabulosas-inversion-en-mandalas-y-timos-puede-hacer-algo-la-justicia/30210"
     },
     {
@@ -136,6 +151,7 @@
         "year": "4/03/2022",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/nuevamente-el-tema-es-el-fideicomiso-y-las-pillerias-conexas-para-medrar/30026"
     },
     {
@@ -145,17 +161,20 @@
         "year": "23/12/2021",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/hiper-cepo-y-34-clases-de-dolar-puede-plantearse-imprevision-hasta-cuando/29672"
     },
-	{"id": 39,
-        "title": " Pospandemia: crecimiento de grupos económicos y me-ga-negocios en el país. Problemática y riesgos "
+    {
+        "id": 39,
+        "title": " Pospandemia: crecimiento de grupos económicos y me-ga-negocios en el país. Problemática y riesgos ",
         "autor": " Ernesto E. Martorell ",
         "coautores": "",
         "year": "03/12/2021",
         "editorial": " LA LEY ",
         "category": "",
-	"cita": "Cita Online: TR LALEY AR/DOC/3363/2021"
-        "link":}
+        "cita": "  TR LALEY AR/DOC/3363/2021",
+        "link": ""
+    },
 
     {
         "id": 38,
@@ -164,6 +183,7 @@
         "year": "19/11/2021",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/las-sociedades-desaparecidas-o-fantasmales-como-hacemos-para-cobrarles/29436"
     },
     {
@@ -173,6 +193,7 @@
         "year": "28/10/2021",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/existe-el-dolar-concursal-enganifas-de-los-deudores-picaros-concursados/29319"
     },
     {
@@ -182,6 +203,7 @@
         "year": "15/10/2021",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/compra-de-empresas-con-apalancamiento-leveraged-buyout-lbo-y-si-los-activos-comprometidos-son-estatales-o-sindicales/29243"
     },
     {
@@ -190,6 +212,7 @@
         "coautores": "",
         "year": "23/09/2021",
         "editorial": "ABOGADOS.COM",
+        "cita": "",
         "category": "",
         "link": "https://abogados.com.ar/adquisicion-de-empresas-due-diligence-y-gato-encerrado-responsabilidades/29087"
     },
@@ -200,6 +223,7 @@
         "year": "18/08/2021",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/crecimiento-de-los-grupos-de-empresas-en-el-pais-la-mega-compra-de-directtv-cuanto-poder-como-controlarlos/28869"
     },
     {
@@ -209,6 +233,7 @@
         "year": "28/07/2021",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/multas-millonarias-operaciones-con-dolar-blue-banca-di-fatto-y-problematica-juridica/28734"
     },
     {
@@ -218,6 +243,7 @@
         "year": "26/06/2021",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/resignificacion-del-acreedor-laboral-en-el-concurso-preventivo-de-la-empresa-ojo-con-lo-que-se-propone/28529"
     },
     {
@@ -227,6 +253,7 @@
         "year": "20/05/2021",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/venta-de-empresas-y-clausulas-antiverguenza-anti-embarrassement-price-su-desembarco-en-la-republica-argentina-con-la-venta-de-edenor/28310"
     },
     {
@@ -236,6 +263,7 @@
         "year": "15/04/2021",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/la-ley-de-blanqueo-inmobiliario-27613-los-graves-riesgos-de-los-que-nadie-habla/28067"
     },
     {
@@ -245,6 +273,7 @@
         "year": "12/03/2021",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/la-republica-necesita-a-la-sociedad-por-acciones-simplificada-sas-no-una-chapuza/27871"
     },
     {
@@ -254,6 +283,7 @@
         "year": "19/02/2021",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/en-la-practica-funciono-la-prohibicion-de-despidos-del-pen/27757"
     },
     {
@@ -263,6 +293,7 @@
         "year": "6/01/2021",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/el-dolar-el-dolar-el-tema-siempre-es-el-dolar/27578"
     },
     {
@@ -272,6 +303,7 @@
         "year": "26/11/2020",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/responsabilidad-de-los-directores-de-sa-en-tiempos-de-covid-19-corresponde-modificar-su-regimen/27299"
     },
     {
@@ -281,6 +313,7 @@
         "year": "5/10/2020",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/los-bancos-y-el-cliente-impactado-por-el-covid-19-problematica-juridica/26930"
     },
     {
@@ -290,6 +323,7 @@
         "year": "3/09/2020",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/colocaciones-off-shore-y-operaciones-con-mesas-de-dinero-clandestinas-problematica-juridica/26695"
     },
     {
@@ -299,6 +333,7 @@
         "year": "2/07/2020",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/la-responsabilidad-de-los-auditores-y-sus-estudios-en-tiempos-de-coronavirus/26383"
     },
     {
@@ -308,6 +343,7 @@
         "year": "19/06/2020",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/los-trabajadores-de-plataformas-digitales-encuadramiento-juridico-y-desafios/26145"
     },
     {
@@ -317,6 +353,7 @@
         "year": "11/09/2019",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/preocupa-el-proyecto-de-reforma-de-la-ley-general-de-sociedades-por-el-grave-retroceso-historico-que-implica/24282"
     },
     {
@@ -326,6 +363,7 @@
         "year": "22/03/2019",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/la-reforma-del-concepto-de-persona-juridica-que-se-propone-comision-decreto-1822018-apareja-serios-riesgos-comunitarios/23130"
     },
     {
@@ -335,6 +373,7 @@
         "year": "22/03/2019",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/la-reforma-del-concepto-de-persona-juridica-que-se-propone-comision-decreto-1822018-apareja-serios-riesgos-comunitarios/23130"
     },
     {
@@ -344,6 +383,7 @@
         "year": "07/01/2019",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/actos-de-corrupcion-empresaria-como-disparador-de-la-solidaridad-laboral/22782"
     },
     {
@@ -353,6 +393,7 @@
         "year": "31/10/2018",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/arrepentirse-en-sede-penal-puede-generar-graves-consecuencias-societarias/22427"
     },
     {
@@ -363,17 +404,20 @@
         "year": "16/08/2018",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/un-tema-que-vuelve-a-ser-trending-topic-juridico-la-responsabilidad-por-control-contractual/21970"
     },
-    {"id": 15,
-        "title": " El trasvasamiento de sociedades frente a la Ley de Responsabili-dad Empresa-ria "
+    {
+        "id": 15,
+        "title": " El trasvasamiento de sociedades frente a la Ley de Responsabili-dad Empresa-ria ",
         "autor": " Ernesto E. Martorell ",
         "coautores": "",
         "year": "15/08/2018",
         "editorial": " LA LEY ",
         "category": "",
-	"cita": "Cita Online: TR LALEY AR/DOC/1610/2018"
-        "link":},
+        "cita": "  TR LALEY AR/DOC/1610/2018",
+        "link": ""
+    },
 
     {
         "id": 14,
@@ -383,6 +427,7 @@
         "year": "24/07/2018",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/responsabilidad-de-los-auditores-sindicos-y-autores-de-informes-frente-a-las-ultimas-reformas-legislativas-ley-27401/21806"
     },
     {
@@ -393,6 +438,7 @@
         "year": "6/06/2018",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/el-trasvasador-de-sociedades-y-su-responsabilidad-en-las-ultimas-reformas-legislativas-ley-27401/21547"
     },
     {
@@ -403,6 +449,7 @@
         "year": "16/05/2018",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/administradores-de-hecho-de-sociedades-y-grupos-economicos-su-responsabilidad-segun-las-ultimas-reformas-legislativas/21439"
     },
     {
@@ -413,6 +460,7 @@
         "year": "23/03/2018",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/nueva-regulacion-en-materia-de-testaferros-socios-ocultos-y-prestanombres/21178"
     },
     {
@@ -423,6 +471,7 @@
         "year": "1/03/2018",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/caida-de-megagrupos-empresarios-ligados-al-estado-fraudes-millonarios-y-responsabilidad-por-default/21050"
     },
     {
@@ -433,6 +482,7 @@
         "year": "14/10/2017",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/las-sociedades-anonimas-simplificadassas-los-riesgos-de-los-que-no-se-habla/20799"
     },
     {
@@ -443,6 +493,7 @@
         "year": "24/10/2017",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/los-contratos-asociativos-y-de-empresa-frente-al-riesgo-de-la-solidaridad/20557"
     },
     {
@@ -453,6 +504,7 @@
         "year": "21/09/2017",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/las-sociedades-del-titulo-iv-de-la-ley-19550-y-los-casos-de-responsabilidad-ilimitada-y-solidaria-posible/20419"
     },
     {
@@ -463,6 +515,7 @@
         "year": "22/02/2017",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/fondos-de-inversion-off-shore-y-mesas-de-dinero-cobrabilidad-en-nuestro-pais-de-los-creditos-no-devueltos-mecanismos-juridicos/19498"
     },
     {
@@ -473,6 +526,7 @@
         "year": "21/12/2016",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/caida-de-holdings-empresarios-ligados-al-poder-respuestas-juridicas-en-el-derecho-argentino/17956"
     },
     {
@@ -483,6 +537,7 @@
         "year": "29/03/2016",
         "editorial": "ABOGADOS.COM",
         "category": "",
+        "cita": "",
         "link": "https://abogados.com.ar/caida-de-holdings-empresarios-ligados-al-poder-respuestas-juridicas-en-el-derecho-argentino/17956"
     },
     {
@@ -493,29 +548,31 @@
         "year": "9/09/2015",
         "editorial": "ABOGADOS.COM",
         "category": "Sociedades",
+        "cita": "",
         "link": "https://abogados.com.ar/servira-la-sau-sociedad-anonima-unipersonal-para-las-pymes/17145"
     },
-    
-    {"id": 2,
+
+    {
+        "id": 2,
         "title": " Responsabilidad de las Calificadoras de Riesgos",
         "autor": " María Elisa Kabas de Martorell",
         "coautores": "",
         "year": "04/06/2014",
         "editorial": " LA LEY ",
         "category": "",
-	"cita": "Cita Online: TR LALEY AR/DOC/1611/2014",
-        "link":},
-
-    
-{"id": 1,
+        "cita": "  TR LALEY AR/DOC/1611/2014",
+        "link": ""
+    },
+    {
+        "id": 1,
         "title": " Holdings financieros y el daño al Estado. Ejemplos extranjeros y Normativa na-cional",
         "autor": " María Elisa Kabas de Martorell",
         "coautores": "",
         "year": "04/06/2014",
         "editorial": " LA LEY ",
         "category": "",
-	"cita": "Cita Online: TR LALEY AR/DOC/3721/2013",
-        "link":}
-
+        "cita": "  TR LALEY AR/DOC/3721/2013",
+        "link": ""
+    }
 
 ]
