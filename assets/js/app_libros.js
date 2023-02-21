@@ -13,7 +13,7 @@ const mostrarCard = (contenido) => {
         year,
         thumbnail
     } = contenido
-    return `<div class="cardContainer col-lg-2 col-md-4 col-sm-6 ">
+    return `<div class="cardContainer col-lg-3 col-md-4 col-sm-6 ">
                 <div class="card card-libros">
                     <img id="${id}" src="${thumbnail}" class="card-img-top img-libros" alt="...">
                         <!-- The Modal -->
