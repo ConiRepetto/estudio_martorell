@@ -19,7 +19,16 @@
         "thumbnail": "https://iili.io/HV2GOmX.png",        
         "link": ""
     },
-
+    {
+        "id": 2,
+        "title": "Doctorado en derecho tributario y derecho mercantil",
+        "info": "Módulo Derecho de sociedades ",
+        "autor": "Ernesto E. Martorell",        
+        "year": "29/07/2022",
+        "universidad": "Universidad de San Carlos de Guatemala", 
+        "thumbnail": "https://iili.io/HV3PQPj.jpg",        
+        "link": ""
+    },
     {
         "id": 2,
         "title": "Doctorado en derecho tributario y derecho mercantil",
@@ -33,11 +42,41 @@
     {
         "id": 1,
         "title": "Maestría Multidisciplinar de los negocios internacionales",
-        "info": "Módulo Derecho de sociedades y mercado",
+        "info": "Maestría Multidisciplinar de los negocios internacionales - Módulo Derecho de sociedades y mercado - ",
+        "autor": "Ernesto E. Martorell",        
+        "year": "10/06/2022",
+        "universidad": "Universidad de San Carlos de Guatemala", 
+        "thumbnail": "https://iili.io/HV3PLMb.jpg",        
+        "link": ""
+    },
+    {
+        "id": 1,
+        "title": "Maestría Multidisciplinar de los negocios internacionales",
+        "info": "Módulo Derecho de sociedades y mercado - ",
         "autor": "Ernesto E. Martorell",        
         "year": "10/06/2022",
         "universidad": "Universidad de San Carlos de Guatemala", 
         "thumbnail": "https://iili.io/HV2GvXs.jpg",        
+        "link": ""
+    },
+    {
+        "id": 1,
+        "title": "Facultad de  Ciencias Jurídicas - Carrera de Martillero y/o Corredor Público",
+        "info": "Profesor titular de cátedra Instituciones de Derecho IV",
+        "autor": "Gaston F. Martorell",        
+        "year": "2021",
+        "universidad": "Universidad del Salvador", 
+        "thumbnail": "https://iili.io/HV3PPte.jpg",        
+        "link": ""
+    },
+    {
+        "id": 1,
+        "title": "Facultad de Derecho",
+        "info": "Profesor Universitario Invitado",
+        "autor": "Gaston F. Martorell",        
+        "year": "2020",
+        "universidad": "Universidad Nacional del Nordeste", 
+        "thumbnail": "https://iili.io/HV3Psou.jpg",        
         "link": ""
     }
 ]
