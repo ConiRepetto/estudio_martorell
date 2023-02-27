@@ -6,7 +6,8 @@ let contenidoHTML = ""
 const mostrarCard = (contenido) => {
     const {
         id,
-        title,        
+        title, 
+        info,       
         year,
         universidad,
         thumbnail,        
@@ -20,6 +21,7 @@ const mostrarCard = (contenido) => {
                     </div>
                     <div class="container_titulos_acad">
                         <p class="titulos_acad" id="${id}" >"${title}"</p>
+                        <p class="titulos_acad_fecha">${info}</p>
                         <p class="titulos_acad_fecha">${year}</p>
                         <p class="titulos_acad_fecha">${universidad}</p>
                     </div>

@@ -1,30 +1,43 @@
 [
     {
-        "id": 1,
-        "title": "Congreso Derecho Laboral",
+        "id": 4,
+        "title": "Maestría en Derecho del Trabajo y Relaciones Laborales",
+        "info": "Materia El Cód. CyC y las instituciones laborales",
         "autor": "Ernesto E. Martorell",        
-        "year": "30/12/2022",
+        "year": "1/06/2023",
         "universidad": "Universidad Austral", 
-        "thumbnail": "https://iili.io/HEhQ9oB.jpg",        
-        "link": "https://abogados.com.ar/nuevos-timos-con-homebanking-se-endurece-la-reaccion-de-la-justicia-frente-a-las-entidades-financieras/31885"
+        "thumbnail": "https://iili.io/HV2GkIn.jpg",        
+        "link": ""
+    },
+    {
+        "id": 3,
+        "title": "Asesoramiento Jurídico de Empresas ",
+        "info": "Módulo Derecho Societario",
+        "autor": "Ernesto E. Martorell",        
+        "year": "11/04/2023",
+        "universidad": "Universidad Católica Argentina", 
+        "thumbnail": "https://iili.io/HV2GOmX.png",        
+        "link": ""
     },
 
     {
-        "id": 1,
-        "title": "Congreso Derecho Laboral",
+        "id": 2,
+        "title": "Doctorado en derecho tributario y derecho mercantil",
+        "info": "Módulo Derecho de sociedades ",
         "autor": "Ernesto E. Martorell",        
-        "year": "30/12/2022",
-        "universidad": "Universidad Austral", 
-        "thumbnail": "https://iili.io/HEhQ9oB.jpg",        
-        "link": "https://abogados.com.ar/nuevos-timos-con-homebanking-se-endurece-la-reaccion-de-la-justicia-frente-a-las-entidades-financieras/31885"
+        "year": "29/07/2022",
+        "universidad": "Universidad de San Carlos de Guatemala", 
+        "thumbnail": "https://iili.io/HV2GvXs.jpg",        
+        "link": ""
     },
     {
         "id": 1,
-        "title": "Congreso Derecho Laboral",
+        "title": "Maestría Multidisciplinar de los negocios internacionales",
+        "info": "Módulo Derecho de sociedades y mercado",
         "autor": "Ernesto E. Martorell",        
-        "year": "30/12/2022",
-        "universidad": "Universidad Austral", 
-        "thumbnail": "https://iili.io/HEhQ9oB.jpg",        
-        "link": "https://abogados.com.ar/nuevos-timos-con-homebanking-se-endurece-la-reaccion-de-la-justicia-frente-a-las-entidades-financieras/31885"
+        "year": "10/06/2022",
+        "universidad": "Universidad de San Carlos de Guatemala", 
+        "thumbnail": "https://iili.io/HV2GvXs.jpg",        
+        "link": ""
     }
 ]
