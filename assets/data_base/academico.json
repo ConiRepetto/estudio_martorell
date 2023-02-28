@@ -21,7 +21,7 @@
     },
     {
         "id": 2,
-        "title": "Resultado de Evaluacion Docente: 96 puntos ",
+        "title": "Resultado de Evaluacion Docente: 100 puntos ",
         "info": "Doctorado en derecho tributario y derecho mercantil",
         "autor": "Ernesto E. Martorell",        
         "year": "29/07/2022",
@@ -39,17 +39,7 @@
         "thumbnail": "https://iili.io/HV2GvXs.jpg",        
         "link": ""
     },
-   
-    {
-        "id": 1,
-        "title": "Resultado de Evaluacion Docente: 96 puntos",
-        "info": "Maestría Multidisciplinar de los negocios internacionales",
-        "autor": "Ernesto E. Martorell",        
-        "year": "10/06/2022",
-        "universidad": "Universidad de San Carlos de Guatemala", 
-        "thumbnail": "https://iili.io/HV3PLMb.jpg",        
-        "link": ""
-    },
+
     {
         "id": 1,
         "title": "Maestría Multidisciplinar de los negocios internacionales",
