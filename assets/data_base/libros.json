@@ -3,22 +3,22 @@
         "id": 44,
         "title": "Responsabilidad Solidaria Laboral por Fraude Societario",
         "autor": "Ernesto E. Martorell",
-        "coautores": "",
+        "coautores": "Marisa Sandra Delellis",
         "year": 2022,
         "editorial": "RUBINZAL CULZONI",
         "category": "Laboral",
-        "thumbnail": "../img/libros/m064.jpg",
+        "thumbnail": "https://iili.io/HWf1X71.jpg",
         "description": ""
     },
     {
         "id": 43,
         "title": "Dominación Contractual y Extensión de Responsabilidad por Daños",
         "autor": "Ernesto E. Martorell",
-        "coautores": "Marisa Sandra Delellis",
+        "coautores": "",
         "year": 2022,
         "editorial": "RUBINZAL CULZONI",
         "category": "Comercial",
-        "thumbnail": "../img/libros/m065.jpg",
+        "thumbnail": "https://iili.io/HcMVJ4e.jpg",
         "description": ""
     },
     {
@@ -29,7 +29,7 @@
         "year": 2020,
         "editorial": "RUBINZAL CULZONI",
         "category": "Comercial",
-        "thumbnail": "../img/libros/m063.jpg",
+        "thumbnail": "https://iili.io/HcMV9C7.jpg",
         "description": ""
     },
     {
@@ -40,7 +40,7 @@
         "year": 2018,
         "editorial": "RUBINZAL CULZONI",
         "category": "Comercial",
-        "thumbnail": "../img/libros/m062.jpg",
+        "thumbnail": "https://iili.io/HcMMbTl.jpg",
         "description": ""
     },
     {
@@ -51,7 +51,7 @@
         "year": 2017,
         "editorial": "ABELEDO PERROT",
         "category": "Comercial",
-        "thumbnail": "../img/libros/m058.jpg",
+        "thumbnail": "https://iili.io/HcMMmj2.jpg",
         "description": ""
     },
     {
@@ -62,7 +62,7 @@
         "year": 2017,
         "editorial": "ABELEDO PERROT",
         "category": "Comercial",
-        "thumbnail": "../img/libros/m053.jpg",
+        "thumbnail": "https://iili.io/HcMMi4n.jpg",
         "description": ""
     },
     {
@@ -73,7 +73,7 @@
         "year": 2017,
         "editorial": "ABELEDO PERROT",
         "category": "Comercial",
-        "thumbnail": "../img/libros/m054.jpg",
+        "thumbnail": "https://iili.io/HcMML2s.jpg",
         "description": ""
     },
     {
@@ -84,7 +84,7 @@
         "year": 2017,
         "editorial": "ABELEDO PERROT",
         "category": "Comercial",
-        "thumbnail": "../img/libros/m055.jpg",
+        "thumbnail": "https://iili.io/HcMMQYG.jpg",
         "description": ""
     }, {
         "id": 36,
@@ -94,7 +94,7 @@
         "year": 2017,
         "editorial": "ABELEDO PERROT",
         "category": "Comercial",
-        "thumbnail": "../img/libros/m056.jpg",
+        "thumbnail": "https://iili.io/HcMMZvf.jpg",
         "description": ""
     },
     {
@@ -105,7 +105,7 @@
         "year": 2017,
         "editorial": "ABELEDO PERROT",
         "category": "Comercial",
-        "thumbnail": "../img/libros/m057.jpg",
+        "thumbnail": "https://iili.io/HcMMtp4.jpg",
         "description": ""
     },
     {
@@ -116,7 +116,7 @@
         "year": 2014,
         "editorial": "LA LEY",
         "category": "Comercial",
-        "thumbnail": "../img/libros/m049.jpg",
+        "thumbnail": "https://iili.io/HcMMghN.jpg",
         "description": ""
     },
     {
@@ -127,7 +127,7 @@
         "year": 2014,
         "editorial": "LA LEY",
         "category": "Comercial",
-        "thumbnail": "../img/libros/m050.jpg",
+        "thumbnail": "https://iili.io/HcMMrQI.jpg",
         "description": ""
     },
     {
@@ -138,7 +138,7 @@
         "year": 2014,
         "editorial": "LA LEY",
         "category": "Comercial",
-        "thumbnail": "../img/libros/m051.jpg",
+        "thumbnail": "https://iili.io/HcMM6Bt.jpg",
         "description": ""
     },
     {
@@ -149,7 +149,18 @@
         "year": 2014,
         "editorial": "LA LEY",
         "category": "Comercial",
-        "thumbnail": "../img/libros/m052.jpg",
+        "thumbnail": "https://iili.io/HcMMPEX.jpg",
+        "description": ""
+    },
+    {
+        "id": 31,
+        "title": "Ley de Concursos y Quiebras Comentada - Tomos I, II, III, IV y V",
+        "autor": "Ernesto E. Martorell",
+        "coautores": "",
+        "year": 2012,
+        "editorial": "LA LEY",
+        "category": "Concursal",
+        "thumbnail": "https://iili.io/HcMMkYJ.jpg",
         "description": ""
     },
     {
@@ -325,7 +336,7 @@
         "year": 2011,
         "editorial": "RUBINZAL CULZONI",
         "category": "Bancario",
-        "thumbnail": "../img/libros/k006.jpg",
+        "thumbnail": "https://iili.io/HcMGSs9.jpg",
         "description": ""
     },
     {
@@ -336,7 +347,7 @@
         "year": 2011,
         "editorial": "RUBINZAL CULZONI",
         "category": "Bancario",
-        "thumbnail": "../img/libros/k005.jpg",
+        "thumbnail": "https://iili.io/HcMGgfe.jpg",
         "description": ""
     },
     {
@@ -347,7 +358,7 @@
         "year": 2008,
         "editorial": "Abeledo Perrot",
         "category": "Comercial",
-        "thumbnail": "../img/libros/m048.jpg",
+        "thumbnail": "https://iili.io/HcMG4Ub.jpg",
         "description": ""
     },
     {
@@ -358,7 +369,7 @@
         "year": 2008,
         "editorial": "Abeledo Perrot",
         "category": "Comercial",
-        "thumbnail": "../img/libros/m022.jpg",
+        "thumbnail": "https://iili.io/HcMG4Ub.jpg",
         "description": ""
     },
 
@@ -370,7 +381,7 @@
         "year": 2008,
         "editorial": "Abeledo Perrot",
         "category": "Comercial",
-        "thumbnail": "../img/libros/m021.jpg",
+        "thumbnail": "https://iili.io/HcMG4Ub.jpg",
         "description": ""
     },
     {
@@ -381,7 +392,7 @@
         "year": 2006,
         "editorial": "RUBINZAL CULZONI",
         "category": "Bancario",
-        "thumbnail": "../img/libros/k004.jpg",
+        "thumbnail": "https://iili.io/HcMG8W7.jpg",
         "description": ""
     },
     {
@@ -392,7 +403,7 @@
         "year": 2004,
         "editorial": "LexisNexis",
         "category": "Concursal",
-        "thumbnail": "../img/libros/m020.jpg",
+        "thumbnail": "https://iili.io/HcMMKXI.jpg",
         "description": ""
     },
     {
@@ -403,18 +414,18 @@
         "year": 2004,
         "editorial": "RUBINZAL CULZONI",
         "category": "Comercial",
-        "thumbnail": "../img/libros/k003.jpg",
+        "thumbnail": "https://iili.io/HcMGNR4.jpg",
         "description": ""
     },
     {
         "id": 21,
-        "title": "Responsabilidad de Auditores y Estudios frente al fraude y Default reprochable a la Empresa",
+        "title": "Responsabilidad de Auditores y Estudios de Auditoría frente al fraude y al Default reprochable a la Empresa",
         "autor": "Ernesto E. Martorell",
         "coautores": "Pedro Bohmer",
         "year": 2002,
         "editorial": "ERREPAR",
         "category": "Comercial",
-        "thumbnail": "../img/libros/m019.jpg",
+        "thumbnail": "https://iili.io/HcMMFzN.jpg",
         "description": ""
     },
     {
@@ -425,18 +436,18 @@
         "year": 2001,
         "editorial": "Ediciones Juridicas Cuyo",
         "category": "Bancario",
-        "thumbnail": "../img/libros/m018.jpg",
+        "thumbnail": "https://iili.io/HcMM2bp.jpg",
         "description": ""
     },
     {
         "id": 19,
-        "title": "Tratados de Concursos y Quiebras Tomos I, II A, II B, II C, III, III A",
+        "title": "Tratado de Concursos y Quiebras Tomos I, II A, II B, II C, III, III A",
         "autor": "Ernesto E. Martorell",
         "coautores": "",
         "year": 1998,
         "editorial": "Depalma",
         "category": "Concursal",
-        "thumbnail": "../img/libros/m023.jpg" ,
+        "thumbnail": "https://iili.io/HcMMC1n.jpg" ,
         
         "description": ""
     },
@@ -448,7 +459,7 @@
         "year": 1997,
         "editorial": "Depalma",
         "category": "Laboral",
-        "thumbnail": "../img/libros/m014.jpg",
+        "thumbnail": "https://iili.io/HcMMJ5v.jpg",
         "description": ""
     },
     {
@@ -459,7 +470,7 @@
         "year": 1997,
         "editorial": "ADHOC",
         "category": "Bancario",
-        "thumbnail": "../img/libros/m017.jpg",
+        "thumbnail": "https://iili.io/HcMMdeR.jpg",
         "description": ""
     },
     {
@@ -470,7 +481,7 @@
         "year": 1996,
         "editorial": "Depalma",
         "category": "Laboral",
-        "thumbnail": "../img/libros/m013.jpg",
+        "thumbnail": "https://iili.io/HcMGyga.jpg",
         "description": ""
     },
     {
@@ -481,7 +492,7 @@
         "year": 1996,
         "editorial": "AD HOC",
         "category": "Concursal",
-        "thumbnail": "../img/libros/m012.jpg",
+        "thumbnail": "https://iili.io/HcMGp0g.jpg",
         "description": ""
     },
     {
@@ -492,7 +503,7 @@
         "year": 1994,
         "editorial": "ABELEDO PERROT",
         "category": "Bancario",
-        "thumbnail": "../img/libros/k002.jpg",
+        "thumbnail": "https://iili.io/HcMGOOl.jpg",
         "description": ""
     },
     {
@@ -503,7 +514,7 @@
         "year": 1994,
         "editorial": "ADHOC",
         "category": "Bancario",
-        "thumbnail": "../img/libros/m017.jpg",
+        "thumbnail": "https://iili.io/HcMMHdJ.jpg",
         "description": ""
     },
     {
@@ -514,7 +525,7 @@
         "year": 1993,
         "editorial": "Depalma",
         "category": "Tratados",
-        "thumbnail": "../img/libros/m031.jpg",
+        "thumbnail": "https://iili.io/HcMMAI2.jpg",
         "description": ""
     },
     {
@@ -525,7 +536,7 @@
         "year": 1992,
         "editorial": "ADHOC",
         "category": "Bancario",
-        "thumbnail": "../img/libros/m016.jpg",
+        "thumbnail": "https://iili.io/HcMMdeR.jpg",
         "description": ""
     },
     {
@@ -536,7 +547,7 @@
         "year": 1991,
         "editorial": "ADHOC",
         "category": "Economico",
-        "thumbnail": "../img/libros/m009c.jpg",
+        "thumbnail": "https://iili.io/HcMGmqF.jpg",
         "description": ""
     },
     {
@@ -547,7 +558,7 @@
         "year": 1991,
         "editorial": "Depalma",
         "category": "Comercial",
-        "thumbnail": "../img/libros/m010.jpg",
+        "thumbnail": "https://iili.io/HcMGDs1.jpg",
         "description": ""
     },
     {
@@ -558,7 +569,7 @@
         "year": 1990,
         "editorial": "Depalma",
         "category": "Comercial",
-        "thumbnail": "../img/libros/m005.jpg",
+        "thumbnail": "https://iili.io/HcMGLbV.jpg",
         "description": ""
     },
     {
@@ -569,7 +580,7 @@
         "year": 1990,
         "editorial": "editorial Universidad",
         "category": "Laboral",
-        "thumbnail": "../img/libros/m008.jpg",
+        "thumbnail": "https://iili.io/HcMGtWP.jpg",
         "description": ""
     },
 
@@ -581,7 +592,7 @@
         "year": 1989,
         "editorial": "Depalma",
         "category": "Bancario",
-        "thumbnail": "../img/libros/k001.jpg",
+        "thumbnail": "https://iili.io/HcMGvxS.jpg",
         "description": ""
     },
     {
@@ -592,7 +603,7 @@
         "year": 1989,
         "editorial": "Depalma",
         "category": "Comercial",
-        "thumbnail": "../img/libros/m007.jpg",
+        "thumbnail": "https://iili.io/HcMGZzB.jpg",
         "description": ""
     },
     {
@@ -603,7 +614,7 @@
         "year": 1988,
         "editorial": "Depalma",
         "category": "Comercial",
-        "thumbnail": "../img/libros/m004.jpg",
+        "thumbnail": "https://iili.io/HcMGi5x.jpg",
         "description": ""
     },
     {
@@ -614,7 +625,7 @@
         "year": 1987,
         "editorial": "HAMMURABI",
         "category": "Laboral",
-        "thumbnail": "../img/libros/m003.jpg",
+        "thumbnail": "https://iili.io/HcMGsOQ.jpg",
         "description": ""
     },
     {
@@ -625,7 +636,7 @@
         "year": 1986,
         "editorial": "HAMMURABI",
         "category": "Laboral",
-        "thumbnail": "../img/libros/m002.jpg",
+        "thumbnail": "https://iili.io/HcMGPJj.jpg",
         "description": ""
     },
 
@@ -637,7 +648,7 @@
         "year": 1985,
         "editorial": "HAMMURABI",
         "category": "Laboral",
-        "thumbnail": "../img/libros/m001.jpg",
+        "thumbnail": "https://iili.io/HcMGr0u.jpg",
         "description": ""
     }
 
