@@ -1,5 +1,16 @@
 [
     {
+        "id": 45,
+        "title": "Crisis de la Empresa - Repercusión Laboral y Comercial ",
+        "autor": "Ernesto E. Martorell",
+        "coautores": "Gaston F. Martorell - Ricardo A. Foglia - Ricardo Foglia",
+        "year": 2023,
+        "editorial": "LA LEY",
+        "category": "Comercial",
+        "thumbnail": "../img/libros/crisis-empresa.jpg",
+        "description": ""
+    },
+    {
         "id": 44,
         "title": "Responsabilidad Solidaria Laboral por Fraude Societario",
         "autor": "Ernesto E. Martorell",
