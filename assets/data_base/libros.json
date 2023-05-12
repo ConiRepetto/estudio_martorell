@@ -18,7 +18,7 @@
         "year": 2022,
         "editorial": "RUBINZAL CULZONI",
         "category": "Laboral",
-        "thumbnail": "https://iili.io/HWf1X71.jpg",
+        "thumbnail": "../img/libros/m064.jpg",
         "description": ""
     },
     {
@@ -29,7 +29,7 @@
         "year": 2022,
         "editorial": "RUBINZAL CULZONI",
         "category": "Comercial",
-        "thumbnail": "https://iili.io/HcMVJ4e.jpg",
+        "thumbnail": "../img/libros/m065.jpg",
         "description": ""
     },
     {
@@ -40,7 +40,29 @@
         "year": 2020,
         "editorial": "RUBINZAL CULZONI",
         "category": "Comercial",
-        "thumbnail": "https://iili.io/HcMV9C7.jpg",
+        "thumbnail": "../img/libros/m063.jpg",
+        "description": ""
+    },
+    {
+        "id": 42,
+        "title": "Sociedades Anónimas Unipersonales (SAU), Sociedades por Acciones Simplificadas (SAS) - Tomo I",
+        "autor": "Ernesto E. Martorell",
+        "coautores": "",
+        "year": 2020,
+        "editorial": "RUBINZAL CULZONI",
+        "category": "Comercial",
+        "thumbnail": "../img/libros/sa-sau-sas1.png",
+        "description": ""
+    },
+    {
+        "id": 42,
+        "title": "Sociedades Anónimas Unipersonales (SAU), Sociedades por Acciones Simplificadas (SAS) - Tomo II",
+        "autor": "Ernesto E. Martorell",
+        "coautores": "",
+        "year": 2020,
+        "editorial": "RUBINZAL CULZONI",
+        "category": "Comercial",
+        "thumbnail": "../img/libros/sa-sau-sas2.png",
         "description": ""
     },
     {
@@ -51,7 +73,7 @@
         "year": 2018,
         "editorial": "RUBINZAL CULZONI",
         "category": "Comercial",
-        "thumbnail": "https://iili.io/HcMMbTl.jpg",
+        "thumbnail": "../img/libros/m062.jpg",
         "description": ""
     },
     {
@@ -62,7 +84,7 @@
         "year": 2017,
         "editorial": "ABELEDO PERROT",
         "category": "Comercial",
-        "thumbnail": "https://iili.io/HcMMmj2.jpg",
+        "thumbnail": "../img/libros/m058.jpg",
         "description": ""
     },
     {
@@ -73,7 +95,7 @@
         "year": 2017,
         "editorial": "ABELEDO PERROT",
         "category": "Comercial",
-        "thumbnail": "https://iili.io/HcMMi4n.jpg",
+        "thumbnail": "../img/libros/m053.jpg",
         "description": ""
     },
     {
@@ -84,7 +106,7 @@
         "year": 2017,
         "editorial": "ABELEDO PERROT",
         "category": "Comercial",
-        "thumbnail": "https://iili.io/HcMML2s.jpg",
+        "thumbnail": "../img/libros/m054.jpg",
         "description": ""
     },
     {
@@ -95,7 +117,7 @@
         "year": 2017,
         "editorial": "ABELEDO PERROT",
         "category": "Comercial",
-        "thumbnail": "https://iili.io/HcMMQYG.jpg",
+        "thumbnail": "../img/libros/m055.jpg",
         "description": ""
     }, {
         "id": 36,
@@ -105,7 +127,7 @@
         "year": 2017,
         "editorial": "ABELEDO PERROT",
         "category": "Comercial",
-        "thumbnail": "https://iili.io/HcMMZvf.jpg",
+        "thumbnail": "../img/libros/m056.jpg",
         "description": ""
     },
     {
@@ -116,7 +138,7 @@
         "year": 2017,
         "editorial": "ABELEDO PERROT",
         "category": "Comercial",
-        "thumbnail": "https://iili.io/HcMMtp4.jpg",
+        "thumbnail": "../img/libros/m057.jpg",
         "description": ""
     },
     {
