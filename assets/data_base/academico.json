@@ -1,4 +1,15 @@
-[{
+[
+    {
+        "id": 7,
+        "title": "Presentación de la obra 'Crisis de la Empresa...' ",
+        "info": "Con exposición de los Jueces de Camara Laboral y Comercial Dres. Mario Silvio Fera y Hector Osvaldo Chomer",
+        "autor": "",
+        "year": "15/06/2023",
+        "universidad": "Recoleta Grand Hotel",
+        "thumbnail": "../img/academ/flyer_libro.jpg",
+        "link": ""
+    },
+    {
         "id": 6,
         "title": "La ley de Teletrabajo 27.555, Antecedentes y análisis crítico de un instituto novedoso",
         "info": "Conferencia",

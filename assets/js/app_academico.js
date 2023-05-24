@@ -21,7 +21,7 @@ const mostrarCard = (contenido) => {
                         <img id="${id}" src="${thumbnail}" class="img_acad" alt="...">
                     </div>
                     <div class="container_titulos_acad">
-                        <p class="titulos_acad" id="${id}" >"${title}"</p>
+                        <p class="titulos_acad" id="${id}" >${title}</p>
                         <p class="titulos_acad_info">${info}</p>
                         <p class="titulos_acad_info">${autor}</p>
                         <p class="titulos_acad_fecha">${year}</p>
